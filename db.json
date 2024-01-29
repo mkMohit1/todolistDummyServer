@@ -1,12 +1,35 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "todos": [
+    {
+    "userId": 1,
+    "id": 1,
+    "title": "go to gym",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "any pending task of today left",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "let him flee less",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "and further times",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "complete my todo project",
+    "completed": false
+  }
   ],
   "profile": {
     "name": "typicode"
