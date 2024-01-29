@@ -4,35 +4,35 @@
     "id": 1,
     "title": "go to gym",
     "categorie":"Health",
-      "date":'12-12-2023',
+      "date":"12-12-2023",
     "completed": false
   },
   {
     "id": 2,
     "title": "any pending task of today left",
     "categorie":"Other",
-    "date":'12-06-2023',
+    "date":"12-06-2023",
     "completed": false
   },
   {
     "id": 3,
     "title": "let him flee less",
     "categorie":"Other",
-    "date":'12-02-2023',
+    "date":"12-02-2023",
     "completed": false
   },
   {
     "id": 4,
     "title": "and further times",
     "categorie":"Other",
-    "date":'12-01-2023',
+    "date":"12-01-2023",
     "completed": true
   },
   {
     "id": 5,
     "title": "complete my todo project",
     "categorie":"Learning",
-    "date":'12-12-2022',
+    "date":"12-12-2022",
     "completed": false
   }
   ],
