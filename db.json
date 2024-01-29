@@ -1,33 +1,33 @@
 {
   "todos": [
     {
-    "userId": 1,
     "id": 1,
     "title": "go to gym",
+    "categorie":"Health",
     "completed": false
   },
   {
-    "userId": 1,
     "id": 2,
     "title": "any pending task of today left",
+    "categorie":"Other",
     "completed": false
   },
   {
-    "userId": 1,
     "id": 3,
     "title": "let him flee less",
+    "categorie":"Other",
     "completed": false
   },
   {
-    "userId": 1,
     "id": 4,
     "title": "and further times",
+    "categorie":"Other",
     "completed": true
   },
   {
-    "userId": 1,
     "id": 5,
     "title": "complete my todo project",
+    "categorie":"Learning",
     "completed": false
   }
   ],
